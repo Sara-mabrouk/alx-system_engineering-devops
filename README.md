@@ -16,5 +16,12 @@
 - [0x08-networking_basics_2](./0x08-networking_basics_2)
 - [0x09-web_infrastructure_design](./0x09-web_infrastructure_design)
 - [command_line_for_the_win](./command_line_for_the_win)
-
-
+- [0x0A-configuration_management](./0x0A-configuration_management)
+- [attack_is_the_best_defense](./attack_is_the_best_defense)
+- [0x0F-load_balancer](./0x0F-load_balancer)
+-[0x0E-web_stack_debugging_1](./0x0E-web_stack_debugging_1)
+- [0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter](./0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter)
+- [0x12-web_stack_debugging_2](./0x12-web_stack_debugging_2)
+- [0x13-firewall](./0x13-firewall)
+- [0x14-mysql](./0x14-mysql)
+- [0x15-api](./0x15-api)
